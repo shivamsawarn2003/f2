@@ -1,0 +1,41 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.rectangle{
+    width: 340px;
+    height:500px;
+    background-color: white;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 150px;
+}
+.rectangle img{
+    height:300px;
+    width: 300px;
+    border-radius: 5%;
+    margin-left:20px;
+    margin-top: 20px;
+    
+}
+.rectangle h3{
+    text-align: center;
+    font-family: 'Baloo Bhai 2', sans-serif;
+    font-weight: 700;
+    color:hsl(218, 44%, 22%);
+    margin-top: 20px;
+}
+.rectangle h5{
+    text-align: center;
+    font-family: 'Baloo Bhai 2', sans-serif;
+    font-weight: 400;
+    color:hsl(220, 15%, 55%);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
